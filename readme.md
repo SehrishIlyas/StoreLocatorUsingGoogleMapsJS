@@ -1,9 +1,10 @@
-## Google Maps API Key
+## Store Locator using Google Maps
 
-AIzaSyBh15L6ZQVrZVsMjwAhb_3-X6bbgpSGtQk
+Google Maps Store Locator App JavaScript Project.
 
-**MyKey**
-AIzaSyAEpVgL31FCx0P862mj0GopqO97J_gMSVc
+## How it works?
+
+When you click on markers or the list menu a popup window opens showing some details of that store. Also you can search the the store by its Zip Code.
 
 ## FontAwesome Link
 
